@@ -1,5 +1,8 @@
 # Ikoka Stick Meshtastic Device
 
+This is a modified version of the Ikoka for E22 or E22P, selectable via solder pad jumper.
+Please use E22 Meshcore firmware for the E22P modules, do not use a E22P version of firmware, the switching differences are handled in hardware for this board.
+
 ## Ikoka! (行こか!)
 
 “行こか?” or “行こか!” is [Kansai dialect](https://en.wikipedia.org/wiki/Kansai_dialect) for “shall we go?” or “let’s go!”.
